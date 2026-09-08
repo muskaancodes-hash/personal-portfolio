@@ -40,6 +40,23 @@ Created the main portfolio webpage using **HTML5**.
 * Projects
 * Contact Form
 * LinkedIn & GitHub links
+* # Part 3 - Portfolio Styling
+
+Designed the portfolio using **CSS3** with a modern AI/ML-inspired look.
+
+### ✨ Includes
+
+* Soft lavender & purple theme
+* Responsive design
+* Modern cards
+* Gradient buttons
+* Hover effects
+* Mobile-friendly layout
+
+### 🛠️ Technology
+
+* CSS3
+
 
 ### 🛠️ Technology
 
